@@ -1,0 +1,15 @@
+<svg width="1400" height="900" viewBox="0 0 1400 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1400" height="900" fill="#E8EEF2"/>
+  <path d="M75 120H1325L1275 820H75V120Z" fill="#F49379"/>
+  <path d="M200 250C310 160 590 120 760 240C930 360 1040 220 1220 240V760C1130 760 1040 730 910 730C760 730 630 760 500 760C380 760 280 740 200 750V250Z" fill="#5864C8"/>
+  <circle cx="860" cy="95" r="110" fill="#BDD7B5"/>
+  <text x="700" y="390" text-anchor="middle" fill="white" font-size="74" font-family="Arial, sans-serif" font-weight="700">HABIT TRACKER</text>
+  <text x="700" y="470" text-anchor="middle" fill="white" font-size="74" font-family="Arial, sans-serif" font-weight="700">MAGICAL MYSTERIES</text>
+  <text x="700" y="550" text-anchor="middle" fill="white" font-size="74" font-family="Arial, sans-serif" font-weight="700">REVEALED THROUGH</text>
+  <text x="700" y="630" text-anchor="middle" fill="white" font-size="74" font-family="Arial, sans-serif" font-weight="700">DAILY HABITS</text>
+  <text x="220" y="320" font-size="160">🦄</text>
+  <text x="1050" y="300" font-size="160">⭐</text>
+  <text x="200" y="780" font-size="160">🪼</text>
+  <text x="1080" y="780" font-size="160">🐢</text>
+  <text x="995" y="325" font-size="140">✅</text>
+</svg>
